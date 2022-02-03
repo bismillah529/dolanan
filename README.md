@@ -1,0 +1,2 @@
+# dolanan
+getvps
